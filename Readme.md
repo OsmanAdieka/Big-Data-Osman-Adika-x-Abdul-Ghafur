@@ -1,6 +1,7 @@
 # 🎵 **Harmony Awards: A Celebration of Musical Brilliance** 🎵
 
 ---
+![pngwing com](https://github.com/user-attachments/assets/81c945be-9d28-48d0-931c-3d96ce040d38)
 
 ## ✨ **Deskripsi**
 
