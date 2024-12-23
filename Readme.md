@@ -4,15 +4,13 @@
 
 ## ✨ **Deskripsi**
 
-Musik adalah elemen universal yang tidak hanya memberikan kenyamanan dan hiburan, tetapi juga mencerminkan budaya dan emosi kolektif masyarakat. Dalam era digital, Spotify menjadi platform populer untuk menikmati musik dan menawarkan sumber data yang menarik untuk dianalisis, termasuk untuk mengidentifikasi tren musik global. Proyek ini berfokus pada analisis data Spotify guna menentukan pemenang "Spotify Grammy Awards," penghargaan yang mengapresiasi karya seni musik terbaik berdasarkan dampak emosional, kreatif, dan sosial.
-
-Proyek ini menggunakan pendekatan eksplorasi data, visualisasi, dan penarikan kesimpulan untuk menggali wawasan dari data Spotify. Hasil analisis akan mendukung pemilihan pemenang di berbagai kategori penghargaan dengan pendekatan berbasis data.
+Musik adalah bagian yang sangat personal sekaligus universal dalam kehidupan setiap individu. Tidak hanya mampu meningkatkan mood dan memberikan kenyamanan, musik juga telah berkembang menjadi ladang bisnis yang menjanjikan dan sarana untuk menyampaikan pesan, emosi, hingga identitas diri. Saat ini, sulit membayangkan keseharian tanpa musik yang menemani—baik saat bekerja, bersantai, maupun berolahraga. Salah satu platform populer untuk menikmati musik adalah Spotify, yang menawarkan kemudahan bagi penggunanya untuk menemukan lagu favorit, menjelajahi album, hingga mencari artis tertentu dengan cepat. Lebih dari sekadar media hiburan, Spotify juga mencerminkan tren global di industri musik, menjadikannya sumber data yang menarik untuk dianalisis, seperti lagu-lagu yang mendominasi tangga lagu atau genre yang sedang naik daun. Mengangkat topik ini penting karena musik bukan hanya sekadar hiburan, tetapi juga cerminan budaya dan emosi kolektif masyarakat. Sebagai penyelenggara penghargaan "Spotify Grammy Awards," memberikan sorotan pada lagu-lagu terbaik membantu mengapresiasi karya seni yang memiliki dampak besar—baik secara emosional, kreatif, maupun sosial. Lebih dari itu, penghargaan ini memberikan pengakuan kepada musisi yang tidak hanya menciptakan musik berkualitas, tetapi juga mampu menyentuh hati pendengarnya dan mempengaruhi industri secara keseluruhan. Konsumen perlu tahu siapa yang meraih penghargaan ini, karena hal tersebut mencerminkan kualitas, relevansi, dan pencapaian luar biasa dalam dunia musik.
 
 ---
 
 ## 📊 **Dataset**
 
-- **Sumber**: Spotify Data
+- **Sumber**: https://www.dropbox.com/sh/qj0ueimxot3ltbf/AACzMOHv7sZCJsj3ErjtOG7ya?dl=1
 - **Deskripsi**: Dataset ini mencakup informasi tentang popularitas artis, album, lagu, dan genre, serta tren dari waktu ke waktu.
 
 ---
@@ -53,15 +51,7 @@ Pendekatan ini dirancang untuk menganalisis data secara komprehensif dan menyaji
 
 ## 🌟 **Manfaat**
 
-### 🎧 **Untuk Pendengar**
-- Menemukan musik berkualitas tinggi yang mungkin terlewatkan.
-- Mendapatkan wawasan tentang tren dan perkembangan terkini dalam industri musik.
-- Memperkaya pengalaman musikal melalui eksposur terhadap berbagai gaya dan inovasi baru.
-
-### 🎼 **Untuk Industri Musik**
-- Mengapresiasi musisi yang berdampak besar secara emosional, kreatif, dan sosial.
-- Mendorong kreativitas dan inovasi dalam seni musik.
-- Memberikan wawasan kepada komposer dan produser untuk menciptakan karya yang relevan dengan preferensi pendengar.
+Dengan memahami karya-karya yang diakui secara luas, pendengar dapat menemukan musik yang sebelumnya mungkin luput dari perhatian, tetapi memiliki nilai artistik yang tinggi. Penghargaan semacam ini berfungsi tidak hanya sebagai bentuk apresiasi bagi para musisi, tetapi juga sebagai sarana edukasi bagi audiens, memberikan wawasan tentang dinamika dan perkembangan terkini dalam industri musik. Hal ini membantu pendengar merasa lebih terhubung dengan tren yang sedang populer dan relevan, sekaligus memperkaya pengalaman musikal mereka dengan eksposur terhadap berbagai gaya dan inovasi baru. Lebih jauh lagi, penghargaan ini berperan sebagai pendorong bagi kreativitas dan inovasi dalam seni musik, menciptakan ekosistem yang mendukung eksplorasi artistik di masa depan. Pemahaman terhadap tren musik yang sedang diminati juga memberikan wawasan berharga bagi para komposer dan produser untuk menciptakan karya yang selaras dengan preferensi pendengar. Dengan demikian, penghargaan ini tidak hanya menjadi perayaan pencapaian artistik, tetapi juga katalis bagi pertumbuhan industri musik yang dinamis dan terus berkembang.
 
 ---
 
