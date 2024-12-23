@@ -71,5 +71,5 @@ Kami menyambut kontribusi dari siapa pun yang tertarik untuk mendukung analisis 
 
 ## 📬 **Kontak**
 
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui [email@example.com].
+Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui [osmanadika34@gmail.com atau ].
 
