@@ -72,7 +72,7 @@ Kami menyambut kontribusi dari siapa pun yang tertarik untuk mendukung analisis 
 ## 📬 **Team**
 
 Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui 
-- [Osman Adika rais](https://github.com/OsmanAdieka)
+- [Osman Adika Rais](https://github.com/OsmanAdieka)
 - [Abdul Ghafur](https://github.com/AGhafurr)
 
 
