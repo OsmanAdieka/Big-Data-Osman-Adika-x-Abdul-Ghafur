@@ -52,29 +52,32 @@ Pendekatan ini dirancang untuk menganalisis data secara komprehensif dan menyaji
 ---
 
 ## 📝 **Contoh Hasil Analisa**
-  1. Artist of the Year
-  Artis paling berpengaruh:
-  - 2019: Tones and I (100 poin popularitas).
-  - 2020: Justin Bieber (95 poin popularitas).
 
-  2. Album of the Year
-  Album paling berkesan:
-  - 2019: Dance Monkey (Stripped Back) oleh Tones and I.
-  - 2020: Yummy oleh Justin Bieber.
+Berikut adalah beberapa contoh dari hasil analisa:
 
-  3. Rookie of the Year
-  Pendatang baru yang mencuri perhatian:
-  - 2019: Tones and I.
-  - 2020: Younha.
+### 1. 🧑🏻‍🎤 **Artist of the Year**
+Artis paling berpengaruh:
+- 2019: Tones and I (100 poin popularitas).
+- 2020: Justin Bieber (95 poin popularitas).
 
-  4. Record of the Year
-  Rekaman paling inovatif:
-  - 2019: I Don’t Care oleh Ed Sheeran.
-  - 2020: Rare oleh Selena Gomez.
+### 2. 📔 **Album of the Year**
+Album paling berkesan:
+- 2019: Dance Monkey (Stripped Back) oleh Tones and I.
+- 2020: Yummy oleh Justin Bieber.
 
-  5. Genre of the Year di tahun 2020
-  Genre dominan:
-  2020: Pop (Yummy oleh Justin Bieber) dan Rap (Life is Good oleh Future ft. Drake).
+### 3. 👉🏻👈🏻 **Rookie of the Year**
+Pendatang baru yang mendapatkan banyak perhatian:
+- 2019: Tones and I.
+- 2020: Younha.
+
+### 4. ⏺️ **Record of the Year**
+Rekaman paling inovatif:
+- 2019: I Don’t Care oleh Ed Sheeran.
+- 2020: Rare oleh Selena Gomez.
+
+### 5. 🎭 **Genre of the Year di tahun 2020**
+Genre dominan:
+2020: Pop (Yummy oleh Justin Bieber) dan Rap (Life is Good oleh Future ft. Drake).
 
 ## 🌟 **Manfaat**
 
