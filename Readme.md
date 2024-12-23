@@ -1,4 +1,4 @@
-# 🎵 **Spotify Grammy Awards** 🎵
+# 🎵 **Harmony Awards: A Celebration of Musical Brilliance** 🎵
 
 ---
 
@@ -13,7 +13,7 @@ Mengangkat topik ini penting karena musik bukan hanya sekadar hiburan, tetapi ju
 ## 📊 **Dataset**
 
 - **Sumber**: https://www.dropbox.com/sh/qj0ueimxot3ltbf/AACzMOHv7sZCJsj3ErjtOG7ya?dl=1
-- **Deskripsi**: Dataset ini mencakup informasi tentang popularitas artis, album, lagu, dan genre, serta tren dari waktu ke waktu.
+- **Deskripsi**: Dataset ini mencakup informasi tentang popularitas artis, album, lagu, dan genre, serta tren dari waktu ke waktu pada Platform Spotify.
 
 ---
 
@@ -69,7 +69,10 @@ Kami menyambut kontribusi dari siapa pun yang tertarik untuk mendukung analisis 
 
 ---
 
-## 📬 **Kontak**
+## 📬 **Team**
 
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui [osmanadika34@gmail.com atau ].
+Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui 
+- [Osman Adika rais](https://github.com/OsmanAdieka)
+- [Abdul Ghafur](https://github.com/AGhafurr)
+
 
